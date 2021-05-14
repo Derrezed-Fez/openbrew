@@ -1,0 +1,3 @@
+[submodule "Python-KasaSmartPowerStrip"]
+	path = Python-KasaSmartPowerStrip
+	url = https://github.com/p-doyle/Python-KasaSmartPowerStrip.git

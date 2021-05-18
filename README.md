@@ -10,7 +10,9 @@ An open-source central control hub for hobby and professional homebrewers. This 
 **Step Drill Bit** https://www.amazon.com/dp/B07NKXLTCB?psc=1&ref=ppx_yo2_dt_b_product_details<br>
 **Heating Element Power Cord** https://www.amazon.com/StarTech-com-Standard-Computer-Power-Cord/dp/B001CATESG<br>
 **Brew Bags** https://www.amazon.com/Reusable-Strainer-Brewing-Drawstring-Straining/dp/B0881KM54Q/ref=sr_1_5?dchild=1&keywords=brew+bag&qid=1621355011&sr=8-5<br>
+
 ---
+
 **Total Cost: $204 USD**
 
 ### Optional Parts
@@ -23,4 +25,5 @@ An open-source central control hub for hobby and professional homebrewers. This 
 **Rasberry Pi (Brew Server)** https://www.amazon.com/dp/B07BFH96M3?psc=1&ref=ppx_yo2_dt_b_product_details<br>
 **Rasberry Pi Case** https://www.amazon.com/dp/B079M96KWZ?psc=1&ref=ppx_yo2_dt_b_product_details<br>
 **Rasberry Pi Power Adapter** https://www.amazon.com/dp/B00MARDJZ4?psc=1&ref=ppx_yo2_dt_b_product_details<br>
+
 ---

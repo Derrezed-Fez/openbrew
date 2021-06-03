@@ -25,7 +25,9 @@ An open-source central control hub for hobby and professional homebrewers. This 
 **Rasberry Pi (Brew Server)** https://www.amazon.com/dp/B07BFH96M3?psc=1&ref=ppx_yo2_dt_b_product_details<br>
 **Rasberry Pi Case** https://www.amazon.com/dp/B079M96KWZ?psc=1&ref=ppx_yo2_dt_b_product_details<br>
 **Rasberry Pi Power Adapter** https://www.amazon.com/dp/B00MARDJZ4?psc=1&ref=ppx_yo2_dt_b_product_details<br>
+**Immersion Wort Chiller** https://www.amazon.com/NY-Brew-Supply-W3825-CV-Chiller-25/dp/B003UCCLG6/ref=sr_1_4?dchild=1&keywords=immersion+wort+chiller&qid=1622679082&sr=8-4<br>
+**Hop Basket** https://www.amazon.com/Hop-Spider-Strainer-Fermenter-Stainless/dp/B083N9VFLB/ref=sr_1_6?dchild=1&keywords=hop+basket&qid=1622679337&sr=8-6<br>
 
 ---
 
-**Total Cost: $235 USD**
+**Total Cost: $310 USD**
